@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 📫 WeChat Public Account: CodeItEasy
+
 💬 CSDN Blog: https://blog.csdn.net/weixin_43792401?type=blog 
+
 🌱 Program Language：Java，Python，etc.
+
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
+
