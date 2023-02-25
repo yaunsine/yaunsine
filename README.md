@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
 
-![version](https://img.shields.io/badge/python-3.9-red.svg)
