@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=joway&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![version](https://img.shields.io/badge/python-3.9-red.svg)
