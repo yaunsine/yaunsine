@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
 
 
-<div align="center">
-<img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.jpg" width="50px"></div>
+<div align="left">
+<img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.jpg" width="100px"></div>
 
 
