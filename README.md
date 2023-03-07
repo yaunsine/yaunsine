@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
 
 
-<div align="left">
+<div >
   
-
-
-</div>
 <table>
     <th>
     <td>Wechat public account</td>
@@ -41,4 +38,7 @@ Here are some ideas to get you started:
   <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/juejin.png" width="100px"></td>
   </tr>
   </table>
+
+</div>
+
 
