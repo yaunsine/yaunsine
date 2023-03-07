@@ -24,7 +24,21 @@ Here are some ideas to get you started:
 ⚡ Technology: Spring series, MySQL, Redis, Recommendation System（Artificial Intelligent and Deep Learning Orientation）.
 
 
-<div align="left">
-<img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.jpg" width="100px"></div>
+<div >
+  
+<table>
+    <tr>
+    <td>Wechat PA</td>
+    <td>CSDN.net</td>
+    <td>Juejin.cn</td>
+    </tr>
+  <tr>
+  <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.png" width="100px"></td>
+  <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/csdnn.png" width="100px"></td>
+  <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/juejin.png" width="100px"></td>
+  </tr>
+  </table>
+
+</div>
 
 
