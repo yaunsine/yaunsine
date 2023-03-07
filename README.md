@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div >
   
 <table>
-    <th>
+    <tr>
     <td>Wechat public account</td>
     <td>CSDN.net</td>
     <td>Juejin.cn</td>
-    </th>
+    </tr>
   <tr>
   <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.png" width="100px"></td>
   <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/csdnn.png" width="100px"></td>
