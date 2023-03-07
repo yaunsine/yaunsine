@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 <table>
     <tr>
-    <td>Wechat public account</td>
+    <td>Wechat PA</td>
     <td>CSDN.net</td>
     <td>Juejin.cn</td>
     </tr>
