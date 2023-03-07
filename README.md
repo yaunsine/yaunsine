@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-<img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.jpg" width="100px"></div>
+<img src="https://raw.github.com/yaunsine/yaunsine/master/images/pwechat.png" width="100px">
+<img src="https://raw.github.com/yaunsine/yaunsine/master/images/csdnn.png" width="100px">
+<img src="https://raw.github.com/yaunsine/yaunsine/master/images/juejin.png" width="100px">
+</div>
 
 
