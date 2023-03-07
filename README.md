@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/csdnn.png" width="100px"></td>
   <td><img src="https://raw.github.com/yaunsine/yaunsine/master/images/juejin.png" width="100px"></td>
   </tr>
-
+  </table>
 
 
 </div>
