@@ -41,4 +41,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<details>
+  <summary><b>Expand to see more...</b></summary>
+  - None
+</details>
 
