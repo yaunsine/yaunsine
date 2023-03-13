@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am @yaunsine.
 
 <!--
 **yaunsine/yaunsine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😄 Info
-
+A current Master Student.
 Guangdong University of Technology, China.
-
 Major in Computer Technology.
 
 
