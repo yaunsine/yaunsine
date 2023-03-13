@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 😄 Info
+
+Guangdong University of Technology, China.
+
+Major in Computer Technology.
+
+
 📫 WeChat Public Account: CodeItEasy
 
 💬 CSDN Blog: https://blog.csdn.net/weixin_43792401?type=blog 
