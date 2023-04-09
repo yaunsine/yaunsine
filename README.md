@@ -54,3 +54,6 @@ Major in Computer Technology.
   - https://gitee.com/lsir34567
 </details>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaunsine&theme=blue-green)
+
+![](https://github-profile-trophy.vercel.app/?username=yaunsine&row=1)
